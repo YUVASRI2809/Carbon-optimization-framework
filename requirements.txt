@@ -1,0 +1,53 @@
+# Data Processing
+numpy
+pandas
+scipy
+
+# Data Visualization
+matplotlib
+plotly
+seaborn
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+
+# Carbon Tracking
+codecarbon
+
+# Experiment Tracking
+mlflow
+
+# Model Explainability (Optional)
+shap
+
+# Hyperparameter Tuning (Optional)
+optuna
+
+# API Development
+fastapi
+uvicorn
+
+# Dashboard
+streamlit
+
+# Workflow Automation
+apache-airflow
+
+# Database
+sqlalchemy
+
+# Environment Variables
+python-dotenv
+
+# Model Serialization
+joblib
+
+# Utilities
+tqdm
+psutil
+
+# Jupyter Notebook
+notebook
+ipykernel
